@@ -3,7 +3,7 @@ Lab 1: https://github.com/Harinijuluru/2303A52426-AIML/blob/main/AIML_Lab_1.ipyn
 
 Lab 2:https://github.com/Harinijuluru/2303A52426-AIML/blob/main/AIML_Lab_2.ipynb
 
-
+Lab 3:https://github.com/Harinijuluru/2303A52426-AIML/blob/main/AIML_Lab_3.ipynb
 
 Lab 4 : ["https://github.com/Harinijuluru/2303A52426-AIML/blob/main/lab_4.ipynb"]
 
