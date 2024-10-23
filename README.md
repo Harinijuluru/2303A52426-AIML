@@ -13,6 +13,8 @@ lab 6 :https://github.com/Harinijuluru/2303A52426-AIML/blob/main/AIML_LAB_6.ipyn
 
 Lab 7: https://github.com/Harinijuluru/2303A52426-AIML/blob/main/AIML_Lab_7.ipynb
 
+Lab 8: https://github.com/Harinijuluru/2303A52426-AIML/blob/main/AIML_lab(8).ipynb
+
 Lab 10: https://github.com/Harinijuluru/2303A52426-AIML/blob/main/AIML_lab_10.ipynb
 
 
