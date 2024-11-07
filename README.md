@@ -19,5 +19,8 @@ Lab 9:https://github.com/Harinijuluru/2303A52426-AIML/blob/main/AIML_Lab_9.ipynb
 
 Lab 10: https://github.com/Harinijuluru/2303A52426-AIML/blob/main/AIML_lab_10.ipynb
 
+Lab 11:https://github.com/Harinijuluru/2303A52426-AIML/blob/main/Classification_dataset_AIML_LAB_11.ipynb
+
+
 
 
